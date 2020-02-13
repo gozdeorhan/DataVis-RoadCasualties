@@ -1,6 +1,6 @@
 # Data Visualisation - Road Casualties by Severity
 
-Please use the following link to see my full work: https://nbviewer.jupyter.org/github/gozdeorhan/DataVis-RoadCasualties/blob/master/DataVis-RoadCasualties.ipynb
+Please use the following link to see my full work (including interactive visuals): https://nbviewer.jupyter.org/github/gozdeorhan/DataVis-RoadCasualties/blob/master/DataVis-RoadCasualties.ipynb
 
 An exploratory data visualisation work, utilizing Road Casualties by Severity dataset which is published by Department for Transport of London.
 
